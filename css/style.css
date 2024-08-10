@@ -1,8 +1,8 @@
 body{
-    background-color:#55423d ;
+    background-color:#faeee7 ;
 }
 .page-heading{
-    color: #fffffe;
+    color:#33272a ;
     text-align:center;
     font-size:50px;
     margin:50px auto;
@@ -13,7 +13,7 @@ body{
     justify-content: center;
 }
 .btn{
-    background-color: #ffc0ad;
+    background-color:#faeee7;
     margin: 0 30px;
     padding:10px 30px;
     width:150px;
