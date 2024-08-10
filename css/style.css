@@ -1,22 +1,26 @@
 body{
     background-color:#faeee7 ;
 }
-.page-heading{
-    color:#33272a ;
-    text-align:center;
-    font-size:50px;
-    margin:50px auto;
 
+.bg-light{
+    background-color:#faeee7 ;
 }
-.button-container{
-    display:flex;
-    justify-content: center;
+.bg-primary{
+    background-color: #faeee7;
 }
-.btn{
-    background-color:#faeee7;
-    margin: 0 30px;
-    padding:10px 30px;
-    width:150px;
-    border-radius: 30px;
-    cursor:pointer;
+.bg-secondary{
+    background-color:#ffc6c7 ;
+}
+.text-primary{
+    color:#faeee7;
+}
+
+.text-secondary{
+    color:#ffc6c7 ;
+}
+.text-dark{
+    color:#33272a;
+}
+.text-center{
+    text-align:center;
 }
