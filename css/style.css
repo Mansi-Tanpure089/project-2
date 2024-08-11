@@ -1,5 +1,7 @@
 body{
     background-color:#faeee7 ;
+    margin:0;
+    padding:0;
 }
 
 .bg-light{
@@ -39,5 +41,5 @@ body{
 }
 .no-underline{
     text-decoration:none;
-    
+
 }
