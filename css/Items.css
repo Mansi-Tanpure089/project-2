@@ -1,12 +1,15 @@
 .item-card{
     background-color:wheat;
     width:150px;
-    height:200px;
+    height:250px;
     padding:10px;
     margin:10px;
     border-radius:10px;
     box-shadow:-5px 5px 10px 1px lightseagreen;
     border:1px solid blueviolet;
+}
+.item-card:hover{
+    box-shadow: -5px 5px 10px 1px lightcoral ;
 }
 .img-card{
     height:70px;
@@ -17,8 +20,17 @@
 }
 .item-order-btn{
     background-color:#fffffe ;
-    border:none;
+    border:2px solid lightseagreen;
     color:black;
     border-radius:6px;
     padding:1px 10px;
+    display:block;
+    margin:4px auto;
+
+}
+.item-order-btn:hover{
+    background-color: blanchedalmond;
+    border-radius: 7px;
+    transition: 0.2s;
+
 }
