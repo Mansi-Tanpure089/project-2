@@ -2,10 +2,9 @@
 
 Welcome to **fruits shop**
 
-This is open-source ** dummy project.**.
+This is open-source ** theme project.**.
 
-Website URL:[Visit our Website]https://ccsss.netlify.app/
-
+ website must visit(https://project-fruit-basket02.netlify.app/)
 We added various pages in our website are:
 - **items**
 - **Contact Us**
