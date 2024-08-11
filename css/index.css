@@ -27,9 +27,17 @@
     margin:10px auto;
     width:40px;
     background-color: aqua;
+    text-align:right;
   }
 
   .header-section{
     display:flex;
-    
+
   }
+  
+
+  .header-description-container{
+    width:50%;
+    margin:20px ;
+  }
+ 
